@@ -1,0 +1,14 @@
+name: Youcon
+
+google_analytics: 123
+
+markdown: kramdown
+
+is_registration_open: false
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - CNAME
